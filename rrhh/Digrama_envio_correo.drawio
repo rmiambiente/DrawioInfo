@@ -391,6 +391,9 @@
         <mxCell id="KzmfB9dyJfohpFteEY9m-98" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="790" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-101" value="Se envia un correo al jefe de la sección para indicarle que la solicitud del funcionario x fue denegada" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="490" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
