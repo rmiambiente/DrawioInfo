@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="nRI6kRB1vmnNmN05mGdO">
-    <mxGraphModel dx="1505" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KzmfB9dyJfohpFteEY9m-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="KzmfB9dyJfohpFteEY9m-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="510" as="sourcePoint" />
+            <mxPoint x="-200" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mkrbQ0STzJ8M-9i_je62-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="159.86" y="290" as="sourcePoint" />
@@ -34,7 +40,7 @@
         <mxCell id="mkrbQ0STzJ8M-9i_je62-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="380" as="sourcePoint" />
-            <mxPoint x="480" y="380" as="targetPoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mkrbQ0STzJ8M-9i_je62-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -43,34 +49,19 @@
             <mxPoint x="-80" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mkrbQ0STzJ8M-9i_je62-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="mkrbQ0STzJ8M-9i_je62-14" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" target="KzmfB9dyJfohpFteEY9m-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="380" as="sourcePoint" />
-            <mxPoint x="480" y="420" as="targetPoint" />
+            <mxPoint x="449.76" y="380" as="sourcePoint" />
+            <mxPoint x="449.76" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="410" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mkrbQ0STzJ8M-9i_je62-16" value="Jefe de sección apruena o denega" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mkrbQ0STzJ8M-9i_je62-17" value="Director aprueba o denega" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KzmfB9dyJfohpFteEY9m-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="510" as="sourcePoint" />
-            <mxPoint x="50" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="510" as="sourcePoint" />
-            <mxPoint x="-200" y="540" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="510" as="sourcePoint" />
-            <mxPoint x="50" y="540" as="targetPoint" />
+            <mxPoint x="60" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KzmfB9dyJfohpFteEY9m-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -114,6 +105,30 @@
         </mxCell>
         <mxCell id="KzmfB9dyJfohpFteEY9m-12" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-14" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="390" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-15" value="Jefe de sección aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-18" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-245" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="510" as="sourcePoint" />
+            <mxPoint x="60" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KzmfB9dyJfohpFteEY9m-20" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
