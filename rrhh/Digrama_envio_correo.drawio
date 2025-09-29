@@ -88,10 +88,10 @@
             <mxPoint x="-80" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-9" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-9" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-50" y="480" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-10" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-10" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-190" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KzmfB9dyJfohpFteEY9m-14" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
@@ -100,19 +100,19 @@
         <mxCell id="KzmfB9dyJfohpFteEY9m-15" value="Jefe de sección aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="580.34" y="390" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-16" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-16" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-260" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-17" value="Usuario final, para notificar que su solicitud fue aprobada" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-17" value="Usuario final, para notificar que su solicitud fue aprobada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-18" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-18" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-245" y="520" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-20" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-20" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="520" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KzmfB9dyJfohpFteEY9m-21" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KzmfB9dyJfohpFteEY9m-21" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KzmfB9dyJfohpFteEY9m-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
