@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Usuario Jefe" id="xx8yL2fFJ8RPEP85rAX4">
-    <mxGraphModel dx="827" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="449" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -465,7 +465,7 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-19" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Notificación a usurio final (Jefe) para que revise su solicitud nuevamente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Usurio final (Jefe) para que revise su solicitud nuevamente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="420" y="800" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Notificación a usuario final con el mensaje de aprobación de su solicutd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
@@ -570,7 +570,7 @@
         <mxCell id="Rp-5iNx8ZT7w2UBsYQT1-1" value="Flujo de aprobación" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=#990000;fillColor=#e51400;fontColor=#000000;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="590" y="560" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-2" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" edge="1" parent="1">
