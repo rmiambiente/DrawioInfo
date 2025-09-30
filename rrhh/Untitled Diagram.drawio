@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="3">
   <diagram name="Usuario Final" id="U5hJ1YzcAkeErVPu3pRD">
-    <mxGraphModel dx="2887" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2038" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -417,6 +417,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="830" as="sourcePoint" />
+            <mxPoint x="549.6" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-2" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="920" as="sourcePoint" />
@@ -425,12 +431,6 @@
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-4" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="780" y="950" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="k0oYbsLuojXHkdh6siI1-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="730" as="sourcePoint" />
-            <mxPoint x="550" y="760" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1" source="k0oYbsLuojXHkdh6siI1-20">
           <mxGeometry relative="1" as="geometry">
@@ -466,7 +466,7 @@
           <mxGeometry x="560" y="700" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
-          <mxGeometry x="490" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Usuario final, para notificar que su solicitud fue aprobada por el director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
@@ -572,6 +572,12 @@
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="590" y="560" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-2" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="829.77" as="sourcePoint" />
+            <mxPoint x="550" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
