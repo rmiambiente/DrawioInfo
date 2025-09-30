@@ -468,8 +468,8 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Notificación a usurio final (Jefe) para que revise su solicitud nuevamente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="420" y="800" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Usuario final, para notificar que su solicitud fue aprobada por el director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
-          <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Notificación a usuario final con el mensaje de aprobación de su solicutd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
+          <mxGeometry x="830" y="800" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-24" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="505" y="740" width="90" height="30" as="geometry" />
@@ -477,8 +477,8 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-25" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="740" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-26" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
-          <mxGeometry x="830" y="890" width="120" height="60" as="geometry" />
+        <mxCell id="k0oYbsLuojXHkdh6siI1-26" value="Notificación al equipo de RRHH, para proceda a revisar en el sistema" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
+          <mxGeometry x="830" y="890" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-27" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
