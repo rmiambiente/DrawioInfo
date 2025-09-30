@@ -453,10 +453,10 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-19" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="490" y="800" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Usuario final, para notificar que su solicitud fue aprobada por el director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Usuario final, para notificar que su solicitud fue aprobada por el director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-24" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
@@ -465,16 +465,16 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-25" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="740" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-26" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-26" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="830" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-27" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="919.88" as="sourcePoint" />
             <mxPoint x="830" y="919.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-28" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="829.83" as="sourcePoint" />
             <mxPoint x="830" y="829.83" as="targetPoint" />
@@ -495,10 +495,10 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-31" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="920" y="950" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-32" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-32" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="630" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-33" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-33" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="630" y="1170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -507,22 +507,22 @@
             <mxPoint x="760" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-35" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="1109.88" as="sourcePoint" />
             <mxPoint x="760" y="1109.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-36" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="1220" as="sourcePoint" />
             <mxPoint x="760" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-37" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=none;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-37" value="&lt;span&gt;Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;strokeColor=default;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="900" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-38" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=none;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-38" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;strokeColor=default;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="900" y="1170" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -531,19 +531,19 @@
             <mxPoint x="1040" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="1099.88" as="sourcePoint" />
             <mxPoint x="1040" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fillColor=#f8cecc;strokeColor=default;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="1210" as="sourcePoint" />
             <mxPoint x="1040" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-75" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-75" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="920" as="sourcePoint" />
             <mxPoint x="830" y="920" as="targetPoint" />
@@ -559,7 +559,7 @@
           <mxGeometry x="510" y="320" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="600" y="560" width="130" height="90" as="geometry" />
+          <mxGeometry x="590" y="560" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
