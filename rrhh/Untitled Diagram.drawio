@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Usuario Jefe" id="xx8yL2fFJ8RPEP85rAX4">
-    <mxGraphModel dx="1141" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="507" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,7 +450,7 @@
             <mxPoint x="670" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-9" value="envia el correo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-9" value="envia el correo" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFF33;" parent="1" vertex="1">
           <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -465,8 +465,8 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-19" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="560" y="700" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
-          <mxGeometry x="420" y="800" width="120" height="60" as="geometry" />
+        <mxCell id="k0oYbsLuojXHkdh6siI1-22" value="NotificaciÃ³n a usurio final (Jefe) para que revise su solicitud nuevamente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#b85450;fontColor=#33001A;" parent="1" vertex="1">
+          <mxGeometry x="420" y="800" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-23" value="Usuario final, para notificar que su solicitud fue aprobada por el director" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="830" y="800" width="120" height="60" as="geometry" />
@@ -578,6 +578,9 @@
             <mxPoint x="540" y="829.77" as="sourcePoint" />
             <mxPoint x="550" y="830" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-3" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="812.5" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
