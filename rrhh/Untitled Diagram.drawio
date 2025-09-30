@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="3">
   <diagram name="Usuario Final" id="U5hJ1YzcAkeErVPu3pRD">
-    <mxGraphModel dx="2038" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2887" dy="1197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-3" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="460.00000000000006" y="535" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-4" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-4" value="&amp;nbsp;Deniega" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="30" y="730" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U5E1o4W9iNzTrtx768ZY-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="U5E1o4W9iNzTrtx768ZY-22" edge="1">
@@ -106,10 +106,10 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-21" value="Jefe de sección aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="580.34" y="390" width="109.66" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=#b85450;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-22" value="Usuario final, para que pueda revisar su solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=default;fontColor=#000000;labelBackgroundColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="-260" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-23" value="Usuario final, para notificar que su solicitud fue aprobada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-23" value="Usuario final, para notificar que su solicitud fue aprobada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#000000;labelBackgroundColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="80" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="U5E1o4W9iNzTrtx768ZY-24" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
@@ -118,79 +118,79 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-25" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10" y="520" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-26" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-26" value="Al equipo de RRHH, para notificar que revisen la solicitud" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#000000;labelBackgroundColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="80" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-27" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-27" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="699.88" as="sourcePoint" />
             <mxPoint x="80" y="699.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-28" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-28" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="609.83" as="sourcePoint" />
             <mxPoint x="80" y="609.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-29" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="760" as="sourcePoint" />
             <mxPoint x="290" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-30" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-30" value="" style="endArrow=classic;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="730" as="sourcePoint" />
             <mxPoint x="140" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-31" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-31" value="&amp;nbsp;Aprueba" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="170" y="730" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-32" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-32" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="-120" y="850" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-33" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-33" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="-120" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-34" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="1000" as="sourcePoint" />
             <mxPoint x="10" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-35" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="889.88" as="sourcePoint" />
             <mxPoint x="10" y="889.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-36" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-36" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="1000" as="sourcePoint" />
             <mxPoint x="10" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-37" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=none;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-37" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;strokeColor=default;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="150" y="850" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-38" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FF0000;fillColor=none;strokeColor=default;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-38" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;strokeColor=default;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="150" y="950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-39" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-39" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290.34" y="990" as="sourcePoint" />
             <mxPoint x="289.99999999999994" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-40" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fillColor=#f8cecc;strokeColor=default;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269.99999999999994" y="879.8800000000001" as="sourcePoint" />
             <mxPoint x="290" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-41" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fillColor=#f8cecc;strokeColor=default;fontColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269.99999999999994" y="990" as="sourcePoint" />
             <mxPoint x="290" y="990" as="targetPoint" />
@@ -328,7 +328,7 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-74" value="Director, para notificar que la solicitud del funcionario x fue denegada" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="370" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-75" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-75" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="700" as="sourcePoint" />
             <mxPoint x="80" y="700" as="targetPoint" />
@@ -376,10 +376,10 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-84" value="&amp;nbsp;Director" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="620" y="760" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-85" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-85" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontStyle=1;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="-40" y="790" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-86" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-86" value="&amp;nbsp;Se envia un correo a&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontStyle=1;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="240" y="790" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U5E1o4W9iNzTrtx768ZY-87" value="Se envia un correo al jefe de la sección para indicarle que la solicitud del funcionario x fue denegada" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fontColor=#33001A;fillColor=#FFD966;" parent="1" vertex="1">
