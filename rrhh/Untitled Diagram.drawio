@@ -607,10 +607,7 @@
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-15" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="885" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="ETrggO2Dt8Y_UiksVQl4-16" value="Â¿Desea que tambiÃ©n le llegue el correo al director?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#33001A;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1170" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ETrggO2Dt8Y_UiksVQl4-17" value="Â¿Desea que tambiÃ©n le llegue el correo al director?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#33001A;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-17" value="Usuario Director, para notificar que la solicitud del funcionario fue aprobado" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="1170" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FF0000;fillColor=#f8cecc;strokeColor=default;fontColor=#33001A;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -624,6 +621,9 @@
         </mxCell>
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-20" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="1080" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-21" value="Usuario Director, para notificar que la solicitud del funcionario fue denegada" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#000000;labelBackgroundColor=none;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1180" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
