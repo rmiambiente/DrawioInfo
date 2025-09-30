@@ -413,7 +413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Usuario Jefe" id="xx8yL2fFJ8RPEP85rAX4">
-    <mxGraphModel dx="449" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -510,9 +510,6 @@
         <mxCell id="k0oYbsLuojXHkdh6siI1-32" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
           <mxGeometry x="630" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-33" value="Usuario final, para notificar que su solicitud fue denegada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1170" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="k0oYbsLuojXHkdh6siI1-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="1220" as="sourcePoint" />
@@ -570,7 +567,7 @@
         <mxCell id="Rp-5iNx8ZT7w2UBsYQT1-1" value="Flujo de aprobaciÃ³n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=#990000;fillColor=#e51400;fontColor=#000000;strokeColor=#B20000;" parent="1" vertex="1">
+        <mxCell id="k0oYbsLuojXHkdh6siI1-20" value="Director aprueba o deniega" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;labelBackgroundColor=#990000;fillColor=#e51400;fontColor=#FFFFFF;strokeColor=#B20000;" parent="1" vertex="1">
           <mxGeometry x="590" y="560" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-2" value="" style="endArrow=none;html=1;rounded=0;fontColor=#33001A;" edge="1" parent="1">
@@ -603,6 +600,18 @@
         </mxCell>
         <mxCell id="ETrggO2Dt8Y_UiksVQl4-10" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="490" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-12" value="Â¿TambiÃ©n enviar al director?" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fillColor=#FFD966;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-13" value="Â¿Desea que tambiÃ©n le llegue el correo al director?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;fontColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-14" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="800" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ETrggO2Dt8Y_UiksVQl4-15" value="í ½í±" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="885" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
