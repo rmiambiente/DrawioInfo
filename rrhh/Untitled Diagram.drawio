@@ -283,7 +283,7 @@
         <mxCell id="U5E1o4W9iNzTrtx768ZY-63" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fontColor=#33001A;strokeColor=default;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="899.6600000000001" y="1100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="U5E1o4W9iNzTrtx768ZY-64" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fontColor=#33001A;strokeColor=default;" parent="1" vertex="1">
+        <mxCell id="U5E1o4W9iNzTrtx768ZY-64" value="Usuario final, para notificar que su solicitud fue aprobada por el equipo de RRHH" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFD966;fontColor=#33001A;strokeColor=default;fillColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="899.6600000000001" y="1200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="U5E1o4W9iNzTrtx768ZY-65" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=#FFD966;fontColor=#33001A;" parent="1" edge="1">
